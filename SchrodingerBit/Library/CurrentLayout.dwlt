@@ -40,9 +40,15 @@ MonoBehaviour:
     y: 452
     width: 978
     height: 279
+<<<<<<< HEAD
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 20}
+=======
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 16}
+>>>>>>> parent of 418d287... Script移植
   m_Panes:
   - {fileID: 16}
   - {fileID: 20}
@@ -68,10 +74,15 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
+<<<<<<< HEAD
+  m_MinSize: {x: 683, y: 342}
+  m_MaxSize: {x: 12008, y: 8042}
+=======
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
+>>>>>>> parent of 418d287... Script移植
   vertical: 0
-  controlID: 46
+  controlID: 69
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 47
+  controlID: 70
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 48
+  controlID: 49
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -484,7 +495,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
+    - Assets/scenes/inGame
+=======
     - Assets
+>>>>>>> parent of 418d287... Script移植
   m_ViewMode: 1
   m_StartGridSize: 85
   m_LastFolders:
@@ -494,9 +509,15 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: 92250000
+    m_LastClickedID: 9618
+    m_ExpandedIDs: 00000000ba24000012250000162500001a250000
+=======
     m_SelectedIDs: 48250000
     m_LastClickedID: 9544
     m_ExpandedIDs: 48250000a425000000ca9a3bffffff7f
+>>>>>>> parent of 418d287... Script移植
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,7 +545,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000ba24000012250000162500001a250000
+=======
     m_ExpandedIDs: 
+>>>>>>> parent of 418d287... Script移植
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -642,7 +667,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+    m_ExpandedIDs: dcfbffff00000000
+=======
     m_ExpandedIDs: 36fbffff00000000
+>>>>>>> parent of 418d287... Script移植
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
