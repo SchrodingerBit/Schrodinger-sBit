@@ -49,6 +49,10 @@
      <Compile Include="Assets\scripts\ButtonEvent.cs" />
      <Compile Include="Assets\scripts\managers\CFadeManager.cs" />
      <Compile Include="Assets\scripts\managers\CGameManager.cs" />
+     <Compile Include="Assets\scripts\music\CVolumeManager.cs" />
+     <Compile Include="Assets\scripts\music\SE.cs" />
+     <Compile Include="Assets\scripts\stageSlect\CBackChanger.cs" />
+     <Compile Include="Assets\scripts\stageSlect\CStageChanger.cs" />
      <Compile Include="Assets\scripts\title\CSceneChanger.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
