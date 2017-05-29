@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/scenes/outGame/Config.unity
+=======
+- path: Assets/scenes/inGame/Game.unity
+>>>>>>> Chara
   isLoaded: 1
   isActive: 1
