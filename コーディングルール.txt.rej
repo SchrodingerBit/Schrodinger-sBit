@@ -1,0 +1,27 @@
+diff a/コーディングルール.txt b/コーディングルール.txt	(rejected hunks)
+@@ -0,0 +1,24 @@
++�R�[�f�B���O���[��
++
++class Hoge // �N���X
++class AHoge // �A�u�X�g���N�g�N���X
++class IHoge // �C���^�[�t�F�[�X�N���X
++class THoge // �e���v���[�g�N���X
++struct SHoge // �\����
++
++class Hoge{
++  private:
++      int m_hogeHoge; // �ϐ���
++  public:
++      void HogeHoge(); // �֐�
++  protected:
++      void HogeFuga();
++};
++
++enum class CHoge{ // �񋓌^
++  e_hoge,
++  e_hoge_Hoge
++}
++
++#define HOGE    //�萔
++const HOGE_FUGA
+\ No newline at end of file
