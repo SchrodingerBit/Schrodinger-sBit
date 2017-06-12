@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:SchrodingerBit/Assets/Standard Assets.meta
 guid: 7d92a2a552e3bb748b0724762bcdee17
 folderAsset: yes
 timeCreated: 1495882798
+=======
+guid: 798cc162fa313a84297f76cd75e2222f
+folderAsset: yes
+timeCreated: 1495600327
+>>>>>>> 21642d7506992ad233a51b3440cca6746a0aa707:SchrodingerBit/Assets/graphics.meta
 licenseType: Free
 DefaultImporter:
   userData: 
