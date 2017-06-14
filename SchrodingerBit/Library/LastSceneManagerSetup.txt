@@ -1,8 +1,12 @@
 sceneSetups:
 <<<<<<< HEAD
+- path: Assets/scenes/inGame/Ui.unity
+=======
+<<<<<<< HEAD
 - path: Assets/scenes/outGame/Config.unity
 =======
 - path: Assets/scenes/inGame/Game.unity
 >>>>>>> Chara
+>>>>>>> 21642d7506992ad233a51b3440cca6746a0aa707
   isLoaded: 1
   isActive: 1
